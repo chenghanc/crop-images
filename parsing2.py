@@ -43,7 +43,6 @@ for elem in listOfFiles:
     print(elem)
     print(elem.split('/')[1])
 '''
-
 try:
 	os.mkdir(cropFolder)
 except FileExistsError:
