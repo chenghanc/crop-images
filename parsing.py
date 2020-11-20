@@ -17,7 +17,6 @@ import sys
 #############################################################################################################################################################
 
 IN_FILE = 'result.txt'
-#pattern = 'Head'
 pattern = r'red|blue|white|yellow|AdultHead|RealBabyHead'
 inputFolder = 'val-images/'
 cropFolder  = 'cropped/'
