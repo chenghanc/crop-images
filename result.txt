@@ -1,0 +1,47 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 512 K-images (8 Kilo-batches_64) 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00000.jpg: PHeadicted in 15.242000 milli-seconds.
+Head: 100%	(left_x:   12   top_y:  111   width:   46   height:   64)
+Head: 99%	(left_x:   99   top_y:  138   width:   45   height:   59)
+Head: 99%	(left_x:  188   top_y:   97   width:   47   height:   65)
+Head: 97%	(left_x:  265   top_y:  129   width:   44   height:   58)
+Head: 99%	(left_x:  336   top_y:   89   width:   47   height:   67)
+Head: 100%	(left_x:  430   top_y:   99   width:   45   height:   65)
+Head: 100%	(left_x:  506   top_y:   97   width:   44   height:   66)
+Head: 100%	(left_x:  590   top_y:  114   width:   48   height:   64)
+Head: 100%	(left_x:  694   top_y:   91   width:   49   height:   68)
+Head: 99%	(left_x:  768   top_y:   54   width:   52   height:   79)
+Head: 98%	(left_x:  828   top_y:   69   width:   44   height:   61)
+Head: 99%	(left_x:  861   top_y:   88   width:   57   height:   70)
+Head: 99%	(left_x:  935   top_y:   66   width:   65   height:   85)
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00001.jpg: PHeadicted in 15.180000 milli-seconds.
+Head: 100%	(left_x:  327   top_y:   49   width:  160   height:  214)
+Head: 100%	(left_x:  659   top_y:  108   width:  179   height:  213)
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00002.jpg: PHeadicted in 15.151000 milli-seconds.
+Head: 100%	(left_x:  250   top_y:   75   width:  106   height:  123)
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00003.jpg: PHeadicted in 17.557000 milli-seconds.
+Head: 34%	(left_x:  106   top_y:  545   width:    5   height:   13)
+Head: 75%	(left_x:  261   top_y:  566   width:   10   height:   14)
+Head: 100%	(left_x:  426   top_y:  551   width:   57   height:   71)
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00004.jpg: PHeadicted in 15.802000 milli-seconds.
+Head: 100%	(left_x:  800   top_y:  114   width:  213   height:  296)
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9500000021.jpg: PHeadicted in 15.733000 milli-seconds.
+Head: 99%	(left_x:   99   top_y:  187   width:   75   height:   87)
+Head: 92%	(left_x:  290   top_y:   72   width:   83   height:   75)
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9500000031.jpg: PHeadicted in 16.600000 milli-seconds.
+Head: 99%	(left_x:  106   top_y:  195   width:   75   height:   72)
+Head: 99%	(left_x:  286   top_y:   76   width:   89   height:   85)
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9700000001.jpg: PHeadicted in 15.573000 milli-seconds.
+Head: 99%	(left_x:   83   top_y:  101   width:   22   height:   25)
+Head: 99%	(left_x:  127   top_y:   23   width:   26   height:   30)
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9700000011.jpg: PHeadicted in 17.079000 milli-seconds.
+Head: 100%	(left_x:   83   top_y:  105   width:   22   height:   24)
+Head: 100%	(left_x:  120   top_y:   27   width:   27   height:   31)
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9700000021.jpg: PHeadicted in 16.088000 milli-seconds.
+Head: 100%	(left_x:   83   top_y:  103   width:   23   height:   25)
+Head: 100%	(left_x:  120   top_y:   25   width:   29   height:   30)

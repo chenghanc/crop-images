@@ -1,0 +1,67 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 512 K-images (8 Kilo-batches_64) 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00000.jpg: Predicted in 15.242000 milli-seconds.
+white: 100%	(left_x:   12   top_y:  111   width:   46   height:   64)
+white: 99%	(left_x:   99   top_y:  138   width:   45   height:   59)
+white: 99%	(left_x:  188   top_y:   97   width:   47   height:   65)
+white: 97%	(left_x:  265   top_y:  129   width:   44   height:   58)
+white: 99%	(left_x:  336   top_y:   89   width:   47   height:   67)
+white: 100%	(left_x:  430   top_y:   99   width:   45   height:   65)
+white: 100%	(left_x:  506   top_y:   97   width:   44   height:   66)
+white: 100%	(left_x:  590   top_y:  114   width:   48   height:   64)
+white: 100%	(left_x:  694   top_y:   91   width:   49   height:   68)
+white: 99%	(left_x:  768   top_y:   54   width:   52   height:   79)
+white: 98%	(left_x:  828   top_y:   69   width:   44   height:   61)
+white: 99%	(left_x:  861   top_y:   88   width:   57   height:   70)
+white: 99%	(left_x:  935   top_y:   66   width:   65   height:   85)
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00001.jpg: Predicted in 15.180000 milli-seconds.
+red: 100%	(left_x:  327   top_y:   49   width:  160   height:  214)
+red: 100%	(left_x:  659   top_y:  108   width:  179   height:  213)
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00002.jpg: Predicted in 15.151000 milli-seconds.
+red: 100%	(left_x:  250   top_y:   75   width:  106   height:  123)
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00003.jpg: Predicted in 17.557000 milli-seconds.
+white: 34%	(left_x:  106   top_y:  545   width:    5   height:   13)
+red: 75%	(left_x:  261   top_y:  566   width:   10   height:   14)
+red: 100%	(left_x:  426   top_y:  551   width:   57   height:   71)
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/00004.jpg: Predicted in 15.802000 milli-seconds.
+red: 100%	(left_x:  800   top_y:  114   width:  213   height:  296)
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9500000021.jpg: Predicted in 15.733000 milli-seconds.
+RealBabyHead: 99%	(left_x:   99   top_y:  187   width:   75   height:   87)
+AdultHead: 92%	(left_x:  290   top_y:   72   width:   83   height:   75)
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9500000031.jpg: Predicted in 16.600000 milli-seconds.
+RealBabyHead: 99%	(left_x:  106   top_y:  195   width:   75   height:   72)
+AdultHead: 99%	(left_x:  286   top_y:   76   width:   89   height:   85)
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9700000001.jpg: Predicted in 15.573000 milli-seconds.
+RealBabyHead: 99%	(left_x:   83   top_y:  101   width:   22   height:   25)
+AdultHead: 99%	(left_x:  127   top_y:   23   width:   26   height:   30)
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9700000011.jpg: Predicted in 17.079000 milli-seconds.
+RealBabyHead: 100%	(left_x:   83   top_y:  105   width:   22   height:   24)
+AdultHead: 100%	(left_x:  120   top_y:   27   width:   27   height:   31)
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/nechk/NECHK-Results/helmet2/helmet2020-1/image/train9700000021.jpg: Predicted in 16.088000 milli-seconds.
+RealBabyHead: 100%	(left_x:   83   top_y:  103   width:   23   height:   25)
+AdultHead: 100%	(left_x:  120   top_y:   25   width:   29   height:   30)
