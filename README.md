@@ -1,5 +1,7 @@
 # Crop Images
 
+Cropping images using trained darknet model
+
 ## Usage:
 - ### Run the command `./darknet detector test custom.data custom.cfg custom.weights -thresh 0.4 -dont_show -ext_output < val.txt > result-dr.txt`
 
