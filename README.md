@@ -13,9 +13,9 @@ Cropping images using trained darknet model
 
 - #### Remove lines from the text file containing specific words
 
-  1) Remove Enter by typing **grep -vE "(Enter)" result-dr.txt > result4.txt**
+  1) Remove **Enter** by typing `grep -vE "(Enter)" result-dr.txt > result4.txt`
 
-  2) Remove Detection by typing **grep -vE "(Detection)" result4.txt > result.txt**
+  2) Remove **Detection** by typing `grep -vE "(Detection)" result4.txt > result.txt`
 
 - #### Run the code 
 
