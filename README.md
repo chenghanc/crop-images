@@ -3,7 +3,7 @@
 Cropping images using trained darknet model
 
 ## Usage:
-- #### Extract the detected objects information including `class names`, `confidence` and `bbox coordinates` by running the command
+- #### Extract the detected objects information including **class names**, **confidence** and **bbox coordinates** by running the command
 
 `./darknet detector test custom.data custom.cfg custom.weights -thresh 0.4 -dont_show -ext_output < val.txt > result-dr.txt`
 
